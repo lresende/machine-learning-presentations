@@ -55,3 +55,7 @@ This repo contains an archive of slide decks we have generated, indexed below:
 [[slides](slides/learning-to-predict-by-methods-of-temporal-differences-slides.pdf)]
 [[code](resources/learning-to-predict-by-methods-of-temporal-differences-code.ipynb)]
 [[paper](resources/learning-to-predict-by-methods-of-temporal-differences.pdf)]
+
+**3/20** - Automatic Detection and Diagnosis of Biased Online Experiments 
+[[slides](slides/automatic-detection-and-diagnosis-of-biased-online-experiments.pdf)]
+[[paper](resources/automatic-detection-and-diagnosis-of-biased-online-experiments.pdf)]
