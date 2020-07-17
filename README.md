@@ -59,3 +59,7 @@ This repo contains an archive of slide decks we have generated, indexed below:
 **3/20** - Automatic Detection and Diagnosis of Biased Online Experiments 
 [[slides](slides/automatic-detection-and-diagnosis-of-biased-online-experiments.pdf)]
 [[paper](resources/automatic-detection-and-diagnosis-of-biased-online-experiments.pdf)]
+
+**5/20** - NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg
+[[slides](slides/NSTM-real-time-query-driven-news-overview-composition-at-bloomberg.pdf)]
+[[paper](resources/NSTM-real-time-query-driven-news-overview-composition-at-bloomberg.pdf)]
